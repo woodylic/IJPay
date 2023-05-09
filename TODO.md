@@ -1,6 +1,6 @@
 # WeComPay TODO
 
-- [ ] 添加 IJPay-WeComPay 模块。
+- [X] 添加 IJPay-WeComPay 模块。
   - 命名空间为 `com.ijpay.wecompay`。
   - 下面有 `enums` 和 `model` 两个 package。
   - 根目录下有 `WeComPayApi` 类，作为入口。

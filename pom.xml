@@ -23,6 +23,7 @@
 		<module>IJPay-PayPal</module>
 		<module>IJPay-XPay</module>
         <module>IJPay-Plugin</module>
+        <module>IJPay-WeComPay</module>
     </modules>
 
 	<licenses>
